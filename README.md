@@ -4,6 +4,7 @@
 - Links to socials
 - Gallery
 - About me
+- Guestbook ( Coming later.. )
 - Hidden button, leading to secret page ( Coming later.. )
 - Music player ( Coming later.. )
 
@@ -18,9 +19,11 @@
 - [ ] Fix space inbetween borders of the links to socials (Squeeze together negative space)
 - [ ] Format the "About this page" more neatly
 - [ ] Find and try new font-family. (Old english if possible or similar font)
+- [ ] Add link to guestbook
 
 ## To-do later:
 
+- [ ] Add guestbook
 - [ ] Research about music players in web browsers
 - [ ] Research about programmable button, placing it on the screen, leading to a new hidden page
 - [ ] Research about ASCII-art
