@@ -13,11 +13,13 @@ h1   {
 
 h2   {
       font-size: 30px;
+      margin: 75px;
      }
 
 p    {
       color: purple;
       font-size: 20px;
+      text-shadow: 0 0 9px;
      }
 
 a    {
@@ -34,7 +36,7 @@ a    {
 
 #w3s {
       color: pink;
-      font-size: 20px;
+      font-size: none;
       text-decoration: none;
       border: none;
      }
