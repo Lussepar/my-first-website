@@ -1,0 +1,37 @@
+
+body {
+      background-color:black;
+      color: aqua;
+      text-align: center;
+     }
+
+h1   {
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-shadow:0 0 9px;
+     }
+
+h2   {
+      font-size: 30px;
+     }
+
+p    {
+      color: purple;
+      font-size: 20px;
+     }
+
+a    {
+      color: purple;
+      font-size: xx-large;
+      text-decoration: none;
+      text-shadow: 0 0 9px;
+      display: block;
+      margin: 10px 0;
+      border: 1px solid purple;
+     }
+
+#w3s {
+      color: pink;
+      font-size: none;
+      text-decoration: none;
+      border: none;
+     }
