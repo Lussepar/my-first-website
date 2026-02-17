@@ -15,7 +15,7 @@
 
 ## To-do:
 
-- [ ] Fix space inbetween borders of the links to socials (Squeeze together negative space)
+- [X] Fix space inbetween borders of the links to socials (Squeeze together negative space)
 - [ ] Format the "About this page" more neatly
 - [ ] Find and try new font-family. (Old english if possible or similar font)
 
@@ -24,6 +24,6 @@
 - [ ] Research about music players in web browsers
 - [ ] Research about programmable button, placing it on the screen, leading to a new hidden page
 - [ ] Research about ASCII-art
-- [ ] How to animate with text (Marquee, or will I get lynched..? )
+- [X] How to animate with text (Marquee, or will I get lynched..? )
 
 More notes coming soon..
